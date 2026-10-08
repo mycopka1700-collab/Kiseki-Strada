@@ -1,6 +1,19 @@
 {
   "mods": [
     {
+      "id": "Toyota Corolla Levin GT-Apex Coupe (AE 86)",
+      "folder": "Toyota Corolla Levin GT-Apex Coupe (AE 86)",
+      "name": "Toyota Corolla Levin GT-Apex Coupe (AE 86)",
+      "version": "1.0",
+      "description": "сырнеке",
+      "changelog": "стаканчик",
+      "size": 44228626,
+      "sha256": "d7a499daf2d4cf24316ff3866cc822cff1dd919c516ad125dd011d9c5ad1dd70",
+      "url": "https://github.com/mycopka1700-collab/Kiseki-Strada/releases/download/Toyota-Corolla-Levin-GT-Apex-Coupe-AE-86--v1.0/Toyota_Corolla_Levin_GT-Apex_Coupe__AE_86_-1.0.rar",
+      "tag": "Toyota-Corolla-Levin-GT-Apex-Coupe-AE-86--v1.0",
+      "updated": "2026-10-08T20:11:23+00:00"
+    },
+    {
       "id": "Toyota Soarer Z30 GT-T 2.5",
       "folder": "Toyota Soarer Z30 GT-T 2.5",
       "name": "Toyota Soarer Z30 GT-T 2.5",
