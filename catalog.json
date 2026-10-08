@@ -1,3 +1,17 @@
 {
-  "mods": []
+  "mods": [
+    {
+      "id": "Toyota Soarer Z30 GT-T 2.5",
+      "folder": "Toyota Soarer Z30 GT-T 2.5",
+      "name": "Toyota Soarer Z30 GT-T 2.5",
+      "version": "1.0",
+      "description": "абоба",
+      "changelog": "покакать",
+      "size": 109064713,
+      "sha256": "e6846fe2328ca87d19fb1037df8ec5a34677fa5d8d3e02b8207d497deb8eb40e",
+      "url": "https://github.com/mycopka1700-collab/Kiseki-Strada/releases/download/Toyota-Soarer-Z30-GT-T-2.5-v1.0/Toyota_Soarer_Z30_GT-T_2.5-1.0.rar",
+      "tag": "Toyota-Soarer-Z30-GT-T-2.5-v1.0",
+      "updated": "2026-10-08T20:05:36+00:00"
+    }
+  ]
 }
