@@ -1,6 +1,20 @@
 {
   "mods": [
     {
+      "id": "Toyota Corolla Levin Coupe AE 86 Yukishiiro",
+      "folder": "Toyota Corolla Levin Coupe AE 86 Yukishiiro",
+      "name": "Toyota Corolla Levin GT-APEX Coupe (AE 86)",
+      "version": "1.0",
+      "description": "Toyota Corolla Levin в кузове АЕ86.\n- Рестайлинговая Kouki купе 1985 года выпуска в комлпектации &quot;GT-APEX&quot;.\n- Оснащена мотором 4AGE мощностью 130 л/с и 150 Н/М крутящего. Для снаряженной массы в 930 кг этого вполне достаточно. В сравнении с кузовом хетчбек, купе жестче, что разумеется оказывает влияние на управляемость, не смотря на техническую идентичность двух кузовов.",
+      "changelog": "",
+      "size": 61503975,
+      "sha256": "c7e8e344671bd2a1a977fe1db81be3ade8411207de4af7e24c2e1c11aa17a6a4",
+      "url": "https://github.com/mycopka1700-collab/Kiseki-Strada/releases/download/Toyota-Corolla-Levin-Coupe-AE-86-Yukishiiro-v1.0/Toyota_Corolla_Levin_Coupe_AE_86_Yukishiiro-1.0.7z",
+      "tag": "Toyota-Corolla-Levin-Coupe-AE-86-Yukishiiro-v1.0",
+      "updated": "2026-10-09T12:16:38+00:00",
+      "image": "https://github.com/mycopka1700-collab/Kiseki-Strada/releases/download/Toyota-Corolla-Levin-Coupe-AE-86-Yukishiiro-v1.0/Toyota_Corolla_Levin_Coupe_AE_86_Yukishiiro-1.0-preview.jpg"
+    },
+    {
       "id": "Toyota Soarer Z30 PASstuh",
       "folder": "Toyota Soarer Z30 PASstuh",
       "name": "Toyota Soarer 2.5 GT Twin Turbo",
