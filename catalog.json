@@ -13,6 +13,20 @@
       "tag": "Toyota-Soarer-Z30-PASstuh-v1.0",
       "updated": "2026-10-09T11:54:48+00:00",
       "image": "https://github.com/mycopka1700-collab/Kiseki-Strada/releases/download/Toyota-Soarer-Z30-PASstuh-v1.0/Toyota_Soarer_Z30_PASstuh-1.0-preview.jpg"
+    },
+    {
+      "id": "Toyota Sprinter Trueno 3-door AE 86 Tanate",
+      "folder": "Toyota Sprinter Trueno 3-door AE 86 Tanate",
+      "name": "Toyota Sprinter Trueno GT-APEX (AE86) 3-door",
+      "version": "1.0",
+      "description": "Toyota Sprinter Trueno в кузове АЕ86.\n- Рестайлинговая Kouki хетчбек 1987 года выпуска в культовой комлпектации &quot;GT-APEX&quot;.\n- Оснащена мотором 4AGE мощностью 130 л/с и 150 Н/М крутящего. Для снаряженной массы в 960 кг этого вполне достаточно.",
+      "changelog": "",
+      "size": 42429313,
+      "sha256": "1b259f480b8e44148dc9eb70f3cc39e341ca4cb88d7f3b5beea9f718117d6458",
+      "url": "https://github.com/mycopka1700-collab/Kiseki-Strada/releases/download/Toyota-Sprinter-Trueno-3-door-AE-86-Tanate-v1.0/Toyota_Sprinter_Trueno_3-door_AE_86_Tanate-1.0.7z",
+      "tag": "Toyota-Sprinter-Trueno-3-door-AE-86-Tanate-v1.0",
+      "updated": "2026-10-09T12:10:52+00:00",
+      "image": "https://github.com/mycopka1700-collab/Kiseki-Strada/releases/download/Toyota-Sprinter-Trueno-3-door-AE-86-Tanate-v1.0/Toyota_Sprinter_Trueno_3-door_AE_86_Tanate-1.0-preview.jpg"
     }
   ]
 }
