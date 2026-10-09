@@ -1,6 +1,20 @@
 {
   "mods": [
     {
+      "id": "Subaru Impreza WRX STI Type RA Version 6",
+      "folder": "Subaru Impreza WRX STI Type RA Version 6",
+      "name": "Subaru Impreza Coupe WRX STI Type RA Version VI",
+      "version": "1.0",
+      "description": "Раллийная пакость, выпущенная на дороги общенго пользования. АБС в комплект не входит, ибо это RA версия, так что тормозить заранее и не дай бог переборщишь... Шутки про 4 цилиндр идут в комплекте.",
+      "changelog": "",
+      "size": 50159518,
+      "sha256": "a45d3c2c7e928b703e7f7ec8e4f9bf6275366c5230721c480c9fe322e309493d",
+      "url": "https://github.com/mycopka1700-collab/Kiseki-Strada/releases/download/Subaru-Impreza-WRX-STI-Type-RA-Version-6-v1.0/Subaru_Impreza_WRX_STI_Type_RA_Version_6-1.0.7z",
+      "tag": "Subaru-Impreza-WRX-STI-Type-RA-Version-6-v1.0",
+      "updated": "2026-10-09T05:58:04+00:00",
+      "image": "https://github.com/mycopka1700-collab/Kiseki-Strada/releases/download/Subaru-Impreza-WRX-STI-Type-RA-Version-6-v1.0/Subaru_Impreza_WRX_STI_Type_RA_Version_6-1.0-preview.jpg"
+    },
+    {
       "id": "Toyota Corolla Levin GT-Apex Coupe (AE 86)",
       "folder": "Toyota Corolla Levin GT-Apex Coupe (AE 86)",
       "name": "Toyota Corolla Levin GT-Apex Coupe (AE 86)",
