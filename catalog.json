@@ -1,3 +1,18 @@
 {
-  "mods": []
+  "mods": [
+    {
+      "id": "Toyota Soarer Z30 PASstuh",
+      "folder": "Toyota Soarer Z30 PASstuh",
+      "name": "Toyota Soarer 2.5 GT Twin Turbo",
+      "version": "1.0",
+      "description": "Toyota Soarer в кузове Z30.\n- Люксовое японское купе 1994 года выпуска в комлектации &quot;2.5 GT Twin Turbo&quot;.\n- С завода оснащен 1JZ-GTE Twin Turbo и легендарной МКПП R154. \n- На данный момент мотор в заводском состоянии, но коробка установлена от Toyota Supra MK4 - Getrag V160.",
+      "changelog": "",
+      "size": 119262845,
+      "sha256": "65b8879a8a46a469ff10dd2461977119201a7980ce0bb4d6179a75a631034939",
+      "url": "https://github.com/mycopka1700-collab/Kiseki-Strada/releases/download/Toyota-Soarer-Z30-PASstuh-v1.0/Toyota_Soarer_Z30_PASstuh-1.0.7z",
+      "tag": "Toyota-Soarer-Z30-PASstuh-v1.0",
+      "updated": "2026-10-09T11:54:48+00:00",
+      "image": "https://github.com/mycopka1700-collab/Kiseki-Strada/releases/download/Toyota-Soarer-Z30-PASstuh-v1.0/Toyota_Soarer_Z30_PASstuh-1.0-preview.jpg"
+    }
+  ]
 }
