@@ -1,6 +1,20 @@
 {
   "mods": [
     {
+      "id": "Subaru Impreza WRX STI Ver 6 bezpredel",
+      "folder": "Subaru Impreza WRX STI Ver 6 bezpredel",
+      "name": "Subaru Impreza Coupe WRX STI Type RA Version VI",
+      "version": "1.0",
+      "description": "Subaru Impreza WRX STI в кузове GC8.\n- Данное выпущено в 2000 году и является шестой по счету генерацией этого поколения Impreza.\n- Автомобиль в версии &quot;Type RA&quot;, что расшифровывается как &quot;Record Attemp&quot; - самая заряженная версия из всех существоваших для данного кузова.\n- Оснащена мотором EJ207 мощностью 280 л/с, фирменным полным приводом &quot;Symmetrical AWD&quot; с системой DCCD (Driver's Control Center Differential), позволяющей водителю прямо из салона заблокировать центральный диффернциал в желаемом соотношении, но ABS на данной версии с завода не устанавливался.",
+      "changelog": "",
+      "size": 49856967,
+      "sha256": "4e67e6e359e9647df18e7720ab2551a3bd4e29f0a652f114959ea3440a7ba7e6",
+      "url": "https://github.com/mycopka1700-collab/Kiseki-Strada/releases/download/Subaru-Impreza-WRX-STI-Ver-6-bezpredel-v1.0/Subaru_Impreza_WRX_STI_Ver_6_bezpredel-1.0.7z",
+      "tag": "Subaru-Impreza-WRX-STI-Ver-6-bezpredel-v1.0",
+      "updated": "2026-10-09T12:40:58+00:00",
+      "image": "https://github.com/mycopka1700-collab/Kiseki-Strada/releases/download/Subaru-Impreza-WRX-STI-Ver-6-bezpredel-v1.0/Subaru_Impreza_WRX_STI_Ver_6_bezpredel-1.0-preview.jpg"
+    },
+    {
       "id": "Toyota Corolla Levin Coupe AE 86 Yukishiiro",
       "folder": "Toyota Corolla Levin Coupe AE 86 Yukishiiro",
       "name": "Toyota Corolla Levin GT-APEX Coupe (AE 86)",
