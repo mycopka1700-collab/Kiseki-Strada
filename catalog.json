@@ -32,15 +32,15 @@
       "id": "Toyota Mark II X81 Fizik_hate",
       "folder": "Toyota Mark II X81 Fizik_hate",
       "name": "Toyota Mark II X81",
-      "version": "1.0",
+      "version": "1.1",
       "description": "Mark II 1990 года. Свап на 1JZ-GE VVT-i. На учет это лего дупло уже не поставить.",
-      "changelog": "Перебрана физика, новые шины",
-      "size": 44823181,
-      "sha256": "3fa06a01eecd0cb793a7b315cc9e5186de4173a56768bd4ca73c84f780bc32fb",
-      "url": "https://github.com/mycopka1700-collab/Kiseki-Strada/releases/download/Toyota-Mark-II-X81-Fizik_hate-v1.0/Toyota_Mark_II_X81_Fizik_hate-1.0.7z",
-      "tag": "Toyota-Mark-II-X81-Fizik_hate-v1.0",
-      "updated": "2026-10-21T10:44:19+00:00",
-      "image": "https://github.com/mycopka1700-collab/Kiseki-Strada/releases/download/Toyota-Mark-II-X81-Fizik_hate-v1.0/Toyota_Mark_II_X81_Fizik_hate-1.0-preview.jpg"
+      "changelog": "",
+      "size": 44817255,
+      "sha256": "f1b1a82042f52a3306781a36fc3675a03f3f3c6ec3533eff0067a90a095a9c1c",
+      "url": "https://github.com/mycopka1700-collab/Kiseki-Strada/releases/download/Toyota-Mark-II-X81-Fizik_hate-v1.1/Toyota_Mark_II_X81_Fizik_hate-1.1.7z",
+      "tag": "Toyota-Mark-II-X81-Fizik_hate-v1.1",
+      "updated": "2026-10-21T12:07:02+00:00",
+      "image": "https://github.com/mycopka1700-collab/Kiseki-Strada/releases/download/Toyota-Mark-II-X81-Fizik_hate-v1.1/Toyota_Mark_II_X81_Fizik_hate-1.1-preview.jpg"
     },
     {
       "id": "Toyota Soarer Z30 PASstuh",
