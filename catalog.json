@@ -29,6 +29,20 @@
       "image": "https://github.com/mycopka1700-collab/Kiseki-Strada/releases/download/Toyota-Corolla-Levin-Coupe-AE-86-Yukishiiro-v1.1/Toyota_Corolla_Levin_Coupe_AE_86_Yukishiiro-1.1-preview.jpg"
     },
     {
+      "id": "Toyota Mark II X81 Fizik_hate",
+      "folder": "Toyota Mark II X81 Fizik_hate",
+      "name": "Toyota Mark II X81",
+      "version": "1.0",
+      "description": "Mark II 1990 года. Свап на 1JZ-GE VVT-i. На учет это лего дупло уже не поставить.",
+      "changelog": "Перебрана физика, новые шины",
+      "size": 44823181,
+      "sha256": "3fa06a01eecd0cb793a7b315cc9e5186de4173a56768bd4ca73c84f780bc32fb",
+      "url": "https://github.com/mycopka1700-collab/Kiseki-Strada/releases/download/Toyota-Mark-II-X81-Fizik_hate-v1.0/Toyota_Mark_II_X81_Fizik_hate-1.0.7z",
+      "tag": "Toyota-Mark-II-X81-Fizik_hate-v1.0",
+      "updated": "2026-10-21T10:44:19+00:00",
+      "image": "https://github.com/mycopka1700-collab/Kiseki-Strada/releases/download/Toyota-Mark-II-X81-Fizik_hate-v1.0/Toyota_Mark_II_X81_Fizik_hate-1.0-preview.jpg"
+    },
+    {
       "id": "Toyota Soarer Z30 PASstuh",
       "folder": "Toyota Soarer Z30 PASstuh",
       "name": "Toyota Soarer 2.5 GT Twin Turbo",
