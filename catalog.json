@@ -102,15 +102,15 @@
       "id": "Toyota Soarer Z30 PASstuh",
       "folder": "Toyota Soarer Z30 PASstuh",
       "name": "Toyota Soarer 2.5 GT Twin Turbo",
-      "version": "1.2",
+      "version": "1.3",
       "description": "Toyota Soarer в кузове Z30.\n- Люксовое японское купе 1994 года выпуска в комлектации &quot;2.5 GT Twin Turbo&quot;.\n- С завода оснащен 1JZ-GTE Twin Turbo и легендарной МКПП R154. \n- На данный момент мотор в заводском состоянии, но коробка установлена от Toyota Supra MK4 - Getrag V160.",
-      "changelog": "Перебрана физика, новые шины",
-      "size": 94417988,
-      "sha256": "006b3b537debe9964510d85cd9d9c62c44d57c2b1e63473681867e513ff0de71",
-      "url": "https://github.com/mycopka1700-collab/Kiseki-Strada/releases/download/Toyota-Soarer-Z30-PASstuh-v1.2/Toyota_Soarer_Z30_PASstuh-1.2.7z",
-      "tag": "Toyota-Soarer-Z30-PASstuh-v1.2",
-      "updated": "2026-10-20T19:49:53+00:00",
-      "image": "https://github.com/mycopka1700-collab/Kiseki-Strada/releases/download/Toyota-Soarer-Z30-PASstuh-v1.2/Toyota_Soarer_Z30_PASstuh-1.2-preview.jpg"
+      "changelog": "перерасчет мощности, теперь паспортные 280 ЛС",
+      "size": 94403946,
+      "sha256": "f0e665ed74b34768a951be8d35cf8372827f2f75a00ec1da982adce2a9f8ba4b",
+      "url": "https://github.com/mycopka1700-collab/Kiseki-Strada/releases/download/Toyota-Soarer-Z30-PASstuh-v1.3/Toyota_Soarer_Z30_PASstuh-1.3.7z",
+      "tag": "Toyota-Soarer-Z30-PASstuh-v1.3",
+      "updated": "2026-10-27T15:18:22+00:00",
+      "image": "https://github.com/mycopka1700-collab/Kiseki-Strada/releases/download/Toyota-Soarer-Z30-PASstuh-v1.3/Toyota_Soarer_Z30_PASstuh-1.3-preview.jpg"
     },
     {
       "id": "Toyota Sprinter Trueno 3-door AE 86 Tanate",
