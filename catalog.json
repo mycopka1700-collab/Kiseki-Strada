@@ -43,6 +43,20 @@
       "image": "https://github.com/mycopka1700-collab/Kiseki-Strada/releases/download/Mazda-RX-7-FC-3S-someone-v1.1/Mazda_RX-7_FC-3S_someone-1.1-preview.jpg"
     },
     {
+      "id": "Mitsubishi Lancer GSR 6 Goblin",
+      "folder": "Mitsubishi Lancer GSR 6 Goblin",
+      "name": "Mitsubishi Lancer GSR VI",
+      "version": "1.0",
+      "description": "Mitsubishi Lancer GSR VI - довольно редкая версия всеми известного Lancer. Его называют младшим братом EVO IV, так как авто построено на одной базе с легендарным раллийным болидом. С завода оснащен 1.8 литровым турбомотором 4G93T мощностью 205 л.с.",
+      "changelog": "",
+      "size": 54701153,
+      "sha256": "c20535db6123257c1c0f58e2198dd0f0ff91609ae8d61ce3e8988e8eff85879b",
+      "url": "https://github.com/mycopka1700-collab/Kiseki-Strada/releases/download/Mitsubishi-Lancer-GSR-6-Goblin-v1.0/Mitsubishi_Lancer_GSR_6_Goblin-1.0.7z",
+      "tag": "Mitsubishi-Lancer-GSR-6-Goblin-v1.0",
+      "updated": "2026-10-27T21:04:53+00:00",
+      "image": "https://github.com/mycopka1700-collab/Kiseki-Strada/releases/download/Mitsubishi-Lancer-GSR-6-Goblin-v1.0/Mitsubishi_Lancer_GSR_6_Goblin-1.0-preview.jpg"
+    },
+    {
       "id": "Subaru Impreza WRX STI Ver 6 bezpredel",
       "folder": "Subaru Impreza WRX STI Ver 6 bezpredel",
       "name": "Subaru Impreza Coupe WRX STI Type RA Version VI",
