@@ -71,6 +71,20 @@
       "image": "https://github.com/mycopka1700-collab/Kiseki-Strada/releases/download/Subaru-Impreza-WRX-STI-Ver-6-bezpredel-v1.0/Subaru_Impreza_WRX_STI_Ver_6_bezpredel-1.0-preview.jpg"
     },
     {
+      "id": "Subaru Imorexa WRX GG 1 pre-facelift Winston",
+      "folder": "Subaru Imorexa WRX GG 1 pre-facelift Winston",
+      "name": "Subaru Impreza WRX (GG)",
+      "version": "1.0",
+      "description": "v1.1 by ACTK\nAdd LODs\nAdd data to data.acd\nAdd main_geometry.vao-patch\n\n2002 USDM WRX Wagon.  The second generation Impreza was introduced to the USA in 2002, 2 years after it debuted in Japan.  Coming with a turbocharged EJ20 engine, the WRX model sat in the middle of the sedan lineup, and was the top of the range for wagons in the USA.  Commonly referred to by fans as the &#39;bug-eye&#39;, the body style only lasted 2 years before being updated.\n\nThe internal designation was GD for sedans and GG for wagons in this generation.  The sedan is roughly 5cm (2in.) wider than the wagon to allow the wheel arches to be homologated, but leaving the wagon in a cheaper tax bracket in Japan, so wagon cornering performance is slightly worse.  In either form the standard AWD system makes it popular for grassroots rally and rallycross and 200 horsepower is quite adequate on dirt.  It&#39;s less impressive on pavement, which is why very few of these cars retain their stock state 20 years later.",
+      "changelog": "",
+      "size": 36017053,
+      "sha256": "8d72302ee4a4430acf85da5435f62355834816e5c7961275bd30729d51ecb492",
+      "url": "https://github.com/mycopka1700-collab/Kiseki-Strada/releases/download/Subaru-Imorexa-WRX-GG-1-pre-facelift-Winston-v1.0/Subaru_Imorexa_WRX_GG_1_pre-facelift_Winston-1.0.7z",
+      "tag": "Subaru-Imorexa-WRX-GG-1-pre-facelift-Winston-v1.0",
+      "updated": "2026-10-27T22:06:38+00:00",
+      "image": "https://github.com/mycopka1700-collab/Kiseki-Strada/releases/download/Subaru-Imorexa-WRX-GG-1-pre-facelift-Winston-v1.0/Subaru_Imorexa_WRX_GG_1_pre-facelift_Winston-1.0-preview.jpg"
+    },
+    {
       "id": "Toyota Corolla Levin Coupe AE 86 Yukishiiro",
       "folder": "Toyota Corolla Levin Coupe AE 86 Yukishiiro",
       "name": "Toyota Corolla Levin GT-APEX Coupe (AE 86)",
