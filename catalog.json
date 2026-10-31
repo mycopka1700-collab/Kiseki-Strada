@@ -29,6 +29,20 @@
       "image": "https://github.com/mycopka1700-collab/Kiseki-Strada/releases/download/Audi-TT-1-gen-225-Quattro-Bezdar-v1.4/Audi_TT_1-gen_225_Quattro_Bezdar-1.4-preview.jpg"
     },
     {
+      "id": "Jaguar F-Type R Passtuh",
+      "folder": "Jaguar F-Type R Passtuh",
+      "name": "Jaguar F-Type R",
+      "version": "1.0",
+      "description": "v5.1.1 by ACTK (Decrypted)\nAdd new LODs\n\nCoup&#233; or Convertible, F-TYPE R is the definitive sports car. Powered by Jaguar’s incredible 5.0 V8 550PS supercharged engine with 680Nm of torque for sheer unadulterated performance that is 100 percent exploitable\n– 0-100km/h in 4.1 seconds, best-in-class power output and power to-weight. \nF-TYPE R takes full advantage of the extremely rigid bodyshell. Its stiffness provides the ideal platform for suspension enhancements that can apply available traction and fully harness the immense power on hand.\nSource- Jaguar F-Type brochure\n\nCredits:\n- Dareks&#39;s Car Mods Assetto Corsa - 3D, 2D, physics\n- Turn10 - 3D, 2D\n- Polyphony Digital - 3D\n- Vilau- sounds\n\nWarning! Minimum CSP version 2.11 and Extended Controls app needed.",
+      "changelog": "",
+      "size": 54238436,
+      "sha256": "94456d496c3bec1de68f2e8eb463587375366abc41500984166518a9248ec9ad",
+      "url": "https://github.com/mycopka1700-collab/Kiseki-Strada/releases/download/Jaguar-F-Type-R-Passtuh-v1.0/Jaguar_F-Type_R_Passtuh-1.0.7z",
+      "tag": "Jaguar-F-Type-R-Passtuh-v1.0",
+      "updated": "2026-10-31T13:46:24+00:00",
+      "image": "https://github.com/mycopka1700-collab/Kiseki-Strada/releases/download/Jaguar-F-Type-R-Passtuh-v1.0/Jaguar_F-Type_R_Passtuh-1.0-preview.jpg"
+    },
+    {
       "id": "Mazda RX-7 FC-3S someone",
       "folder": "Mazda RX-7 FC-3S someone",
       "name": "Mazda RX-7 FC-3S",
